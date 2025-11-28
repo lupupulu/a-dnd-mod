@@ -9,7 +9,7 @@
 模组由以下方面组成：
 - [自述文件](./README.md)
 - [许可证](./LICENSE)
-- [世界观等全局背景说明](./WorldView.md)
+- [世界观等全局背景说明](./WorldView/main.md)
 - [新的职业、子职、种族、背景等](./AdditionRules.md)
 
 
